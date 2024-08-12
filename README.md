@@ -1,4 +1,4 @@
-# react-next14-typescript-counties
+# react-next14-typescript-countries
 
 This is a Countries of the World project written using Create Next App, React, Typescript and Restcountries API.
 
